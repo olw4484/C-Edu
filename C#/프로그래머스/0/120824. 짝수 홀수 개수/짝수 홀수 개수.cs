@@ -14,10 +14,7 @@ public class Solution {
             {
                 oddCount++;
             }
-            
         }
-
-        
         return new int[] {evenCount, oddCount} ;
     }
 }
